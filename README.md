@@ -109,9 +109,3 @@ aDmuccbbYtg48h2kiooCxmyN
 > [.𖥔 ݁ ˖ more ˚.⋆](https://github.com/dwisiswant0?tab=repositories&q=&type=source&language=&sort=stargazers)
 
 ---
->
-> [![GitHub Sponsors - dwisiswant0](https://img.shields.io/badge/GitHub_Sponsors-dwisiswant0-EA4AAA?logo=githubsponsors)](https://github.com/sponsors/dwisiswant0) <!-- [![Buy Me a Coffee - dw1](https://img.shields.io/badge/Buy_Me_a_Coffee-dw1-FFDD00?logo=buymeacoffee)](https://www.buymeacoffee.com/dw1) [![Trakteer - dwisiswant0](https://custom-icon-badges.demolab.com/badge/Trakteer-dwisiswant0-be1e2d.svg?logo=trakteer-red)](https://trakteer.id/dwisiswant0/tip) [![Ko-fi - dwisiswant0](https://img.shields.io/badge/Ko--fi-dwisiswant0-FF5E5B?logo=kofi)](https://ko-fi.com/dwisiswant0) [![PayPal - dw1s](https://img.shields.io/badge/PayPal-dw1s-informational?logo=paypal)](https://paypal.me/dw1s) -->
->
-> ---
->
-> [![Pesawat Kemanusiaan Indonesia untuk Palestina](https://custom-icon-badges.demolab.com/badge/kitabisa-kitauntukgaza-56a1e2.svg?logo=kitabisa)](https://kitabisa.com/campaign/kitauntukgaza?utm_source=https%3A%2F%2Fgithub.com%2Fdwisiswant0)
