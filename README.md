@@ -116,7 +116,3 @@ aDmuccbbYtg48h2kiooCxmyN
 > ---
 >
 > [![Pesawat Kemanusiaan Indonesia untuk Palestina](https://custom-icon-badges.demolab.com/badge/kitabisa-kitauntukgaza-56a1e2.svg?logo=kitabisa)](https://kitabisa.com/campaign/kitauntukgaza?utm_source=https%3A%2F%2Fgithub.com%2Fdwisiswant0)
-
-
---
-tapi bagian dwisiswant0 dihilangkan dulu, terus referan projectnya juga dihilangkan. sisakan saja templatenya
