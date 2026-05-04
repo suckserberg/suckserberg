@@ -74,7 +74,6 @@ aDmuccbbYtg48h2kiooCxmyN
 > <sub>Last played:</sub><br>
 > [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/312jhimd3fjv2utzftuayfkl7bwa?si=642852a91dff4288)
 
----
 > [!IMPORTANT]
 > If you've made some impact using my tools or just want to encourage me to continue creating stuff, please consider giving back or supporting my efforts and helping it grow by buy me a cup of coffee — _but only if you're definitely able to_! 😊🎉
 
