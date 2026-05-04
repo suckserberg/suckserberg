@@ -68,7 +68,7 @@ aDmuccbbYtg48h2kiooCxmyN
 ```
 </details>
 
-<a href="#"><img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" align="right" width="40%"></a>
+<a href="#"><img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" align="right" width="30%"></a>
 
 > [!TIP]
 > [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/312jhimd3fjv2utzftuayfkl7bwa?si=642852a91dff4288)
