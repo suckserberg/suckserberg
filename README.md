@@ -70,19 +70,18 @@ aDmuccbbYtg48h2kiooCxmyN
 
 <a href="#"><img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" align="right" width="40%"></a>
 
-> [!TIP]>
+> [!TIP]
 > [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/312jhimd3fjv2utzftuayfkl7bwa?si=642852a91dff4288)
 
 > [!IMPORTANT]
 > I wanted to explain why I'm using this specific GitHub account. Long story short, it's my second one. I made it specifically to draw a line between the work I do here and the projects I usually post on my main profile. Honestly, it's a reputation thing. In this corner of the dev world, especially when you're messing with deobfuscation and reverse engineering, people have a lot of different opinions. Instead of letting this stuff bleed into my main identity or making things confusing for my followers there, I decided it was better to just have a separate workspace where I can focus.
-It’s honestly a relief to be able to experiment here without looking over my shoulder. If you’ve actually gotten something out of the tools I’ve built or just want me to keep sharing these deep-dives into weird code, I’d be incredibly grateful for the support. If you’re in a spot where you’ve got a little extra and want to throw a coffee my way, it really does help keep the momentum going. But please, only do that if you're actually in a position to do so. I’m just happy to see people using what I make. 😊🎉
+> 
+> It’s honestly a relief to be able to experiment here without looking over my shoulder. If you’ve actually gotten something out of the tools I’ve built or just want me to keep sharing these deep-dives into weird code, I’d be incredibly grateful for the support. If you’re in a spot where you’ve got a little extra and want to throw a coffee my way, it really does help keep the momentum going. But please, only do that if you're actually in a position to do so. I’m just happy to see people using what I make. 😊🎉
 
 ---
 
 > [!NOTE]
-> **Recent work (i contributed)**:
+> **Recent work (I contributed)**:
 >
 > * [**satset**](https://github.com/bookek/satset): High-performance, buffer-backed hybrid networking for Roblox with zero-allocation delta synchronization.
 > * [**luau-lang**](https://github.com/luau-lang/luau): A small, fast, and embeddable programming language based on Lua with a gradual type system.
-
----
