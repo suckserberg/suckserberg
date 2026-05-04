@@ -75,36 +75,15 @@ aDmuccbbYtg48h2kiooCxmyN
 > [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/312jhimd3fjv2utzftuayfkl7bwa?si=642852a91dff4288)
 
 > [!IMPORTANT]
-> If you've made some impact using my tools or just want to encourage me to continue creating stuff, please consider giving back or supporting my efforts and helping it grow by buy me a cup of coffee — _but only if you're definitely able to_! 😊🎉
+> I wanted to explain why I'm using this specific GitHub account. Long story short, it's my second one. I made it specifically to draw a line between the work I do here and the projects I usually post on my main profile. Honestly, it's a reputation thing. In this corner of the dev world, especially when you're messing with deobfuscation and reverse engineering, people have a lot of different opinions. Instead of letting this stuff bleed into my main identity or making things confusing for my followers there, I decided it was better to just have a separate workspace where I can focus.
+It’s honestly a relief to be able to experiment here without looking over my shoulder. If you’ve actually gotten something out of the tools I’ve built or just want me to keep sharing these deep-dives into weird code, I’d be incredibly grateful for the support. If you’re in a spot where you’ve got a little extra and want to throw a coffee my way, it really does help keep the momentum going. But please, only do that if you're actually in a position to do so. I’m just happy to see people using what I make. 😊🎉
 
 ---
 
 > [!NOTE]
-> **Recent work**:
+> **Recent work (i contributed)**:
 >
-> * [**x**](https://github.com/dwisiswant0/x): A collection of Go hacks maintained by yours truly.
-> * [**semctx**](https://github.com/dwisiswant0/semctx): Semantic code context for AI agents.
-> * [**richglob**](https://github.com/dwisiswant0/richglob): brings Bash-style globbing to your filesystem matching.
-> * [**fastcache**](https://github.com/dwisiswant0/fastcache): A fast, generic, thread-safe cache for Go.
-> * [**rapidhash**](https://github.com/dwisiswant0/rapidhash): a Go implementation of the rapidhash V3 algorithm - a very fast, high quality, platform-independent hashing algorithm.
-> * [**safemath**](https://github.com/dwisiswant0/safemath): Safe, generic, and robust integer math library for Go.
-> * [**mmapfile**](https://github.com/dwisiswant0/mmapfile): a fast Go mmap library with `*os.File`-compatible I/O, zero-copy, up to 50x+ faster.
-> * [**rm-secure**](https://github.com/dwisiswant0/rm-secure): A secure drop-in replacement for rm(1) with multi-pass data wiping algorithms to prevent data recovery.
-> * [**godoc**](https://github.com/dwisiswant0/godoc): go doc, glamorous: ✨ terminal chic, 🤖 assistant-ready, and 📦 programmable.
-> * [**fastdns**](https://github.com/dwisiswant0/fastdns): DNS at ludicrous speed for Go, powered by XDP sockets. [EXPERIMENTAL]
-
----
-
-> [!WARNING]
-> **You might like**:
-> * [**sandboxec**](https://github.com/sandboxec/sandboxec): A lightweight command sandbox for Linux, secure-by-default, built on Landlock.
-> * [**teler-waf**](https://github.com/teler-sh/teler-waf): protect yo local web services from OWASP Top 10 threats, known vulnerabilities, malicious actors, botnets, unwanted crawlers, and brute force attacks.
-> * [**mubeng**](https://github.com/mubeng/mubeng): An incredibly fast proxy checker & IP rotator with ease.
-> * [**sebel**](https://github.com/teler-sh/sebel): Checks SSL/TLS certificates for potential malicious connections by detecting and blocking certificates used by botnet command and control (C&C) servers.
-> * [**unch**](https://github.com/dwisiswant0/unch): Hides message with invisible Unicode characters.
-> * [**noizy**](https://github.com/dwisiswant0/noizy): A drop-in replacement to Apple Hearing - Background Sounds with over 30+ available sounds.
-> * [**ngocok**](https://github.com/dwisiswant0/ngocok): ngrok Collaborator Link — yet another Burp Collaborator alternative for free with ngrok.
->
-> [.𖥔 ݁ ˖ more ˚.⋆](https://github.com/dwisiswant0?tab=repositories&q=&type=source&language=&sort=stargazers)
+> * [**satset**](https://github.com/bookek/satset): High-performance, buffer-backed hybrid networking for Roblox with zero-allocation delta synchronization.
+> * [**luau-lang**](https://github.com/luau-lang/luau): A small, fast, and embeddable programming language based on Lua with a gradual type system.
 
 ---
