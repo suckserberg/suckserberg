@@ -71,7 +71,6 @@ aDmuccbbYtg48h2kiooCxmyN
 <a href="#"><img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" align="right" width="40%"></a>
 
 > [!TIP]
-> [![Spotify - dw1](https://img.shields.io/badge/Spotify-dw1-2ea44f?logo=spotify)](https://open.spotify.com/artist/5wuq9dt3Z9OcshIezGc4iI)<br>
 > <sub>Last played:</sub><br>
 > [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/312jhimd3fjv2utzftuayfkl7bwa?si=642852a91dff4288)
 
