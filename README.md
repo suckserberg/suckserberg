@@ -75,7 +75,6 @@ aDmuccbbYtg48h2kiooCxmyN
 
 > [!IMPORTANT]
 > I wanted to explain why I'm using this specific GitHub account. Long story short, it's my second one. I made it specifically to draw a line between the work I do here and the projects I usually post on my main profile. It's simply a matter of keeping things organized, rather than mixing everything together and making my main profile cluttered or harder to navigate, I decided it was better to have a separate space where I can experiment and tinker freely.
-
 > 
 > It's honestly a relief to have a dedicated playground like this. If you've gotten something out of the tools or projects I've shared here and want to help me keep the momentum going, I'd be incredibly grateful for your support. If you're in a spot where you've got a little extra and want to throw a coffee my way, it really does help. But please, only do that if you're actually in a position to do so. I'm just happy to see people using what I make. 😊🎉
 
