@@ -74,9 +74,10 @@ aDmuccbbYtg48h2kiooCxmyN
 > [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/312jhimd3fjv2utzftuayfkl7bwa?si=642852a91dff4288)
 
 > [!IMPORTANT]
-> I wanted to explain why I'm using this specific GitHub account. Long story short, it's my second one. I made it specifically to draw a line between the work I do here and the projects I usually post on my main profile. Honestly, it's a reputation thing. In this corner of the dev world, especially when you're messing with deobfuscation and reverse engineering, people have a lot of different opinions. Instead of letting this stuff bleed into my main identity or making things confusing for my followers there, I decided it was better to just have a separate workspace where I can focus.
+> I wanted to explain why I'm using this specific GitHub account. Long story short, it's my second one. I made it specifically to draw a line between the work I do here and the projects I usually post on my main profile. It's simply a matter of keeping things organized, rather than mixing everything together and making my main profile cluttered or harder to navigate, I decided it was better to have a separate space where I can experiment and tinker freely.
+
 > 
-> It’s honestly a relief to be able to experiment here without looking over my shoulder. If you’ve actually gotten something out of the tools I’ve built or just want me to keep sharing these deep-dives into weird code, I’d be incredibly grateful for the support. If you’re in a spot where you’ve got a little extra and want to throw a coffee my way, it really does help keep the momentum going. But please, only do that if you're actually in a position to do so. I’m just happy to see people using what I make. 😊🎉
+> It's honestly a relief to have a dedicated playground like this. If you've gotten something out of the tools or projects I've shared here and want to help me keep the momentum going, I'd be incredibly grateful for your support. If you're in a spot where you've got a little extra and want to throw a coffee my way, it really does help. But please, only do that if you're actually in a position to do so. I'm just happy to see people using what I make. 😊🎉
 
 ---
 
